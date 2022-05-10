@@ -5,8 +5,8 @@ import MainPage from './javascript/components/MainPage';
 function App() {
   return (
     <div className="App">
-      <MainPage/>
-      
+      <MainPage title={'Aplicatie'}/>
+
     </div>
   );
 }
